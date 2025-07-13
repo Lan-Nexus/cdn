@@ -3,5 +3,11 @@
   "compatibility_date": "2025-07-13",
   "assets": {
     "directory": "./games"
-  }
+  },
+  "routes": [
+    {
+      "pattern": "cdn.lan-nexus.online/*",
+      "custom_domain": true
+    }
+  ]
 }
