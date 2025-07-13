@@ -1,5 +1,6 @@
 {
-  "executable": null,
+  "name":'Battlefield 2',
+  "executable": 'BF2.exe',
   "needsGameKey": false,
   "installScript": null,
   "uninstallScript": null,
