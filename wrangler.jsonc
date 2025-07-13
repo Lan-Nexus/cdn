@@ -2,7 +2,7 @@
   "name": "lan-nexus-cdn",
   "compatibility_date": "2025-07-13",
   "assets": {
-    "directory": "./games"
+    "directory": "./public"
   },
   "routes": [
     {

@@ -1,0 +1,7 @@
+{
+  "executable": null,
+  "needsGameKey": false,
+  "installScript": null,
+  "uninstallScript": null,
+  "playScript": "await run(GAME_EXECUTABLE, ['+modPath', 'mods/bf2', '+playerName', '\"test\"', '+playerPassword', '\"testingitnotimportant\"','+fullscreen', '1','/gscdk', GAME_KEY, '/language', 'English']);",
+}

@@ -1,1 +1,0 @@
-await run(GAME_EXECUTABLE, ['+modPath', 'mods/bf2', '+playerName', '"test"', '+playerPassword', '"testingitnotimportant"','+fullscreen', '1','/gscdk', GAME_KEY, '/language', 'English']);
