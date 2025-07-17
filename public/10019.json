@@ -1,6 +1,6 @@
 {
-  "name":'Blur',
-  "executable": 'Blur.exe',
+  "name":"Blur",
+  "executable": "Blur.exe",
   "needsGameKey": false,
   "installScript": null,
   "uninstallScript": null,
