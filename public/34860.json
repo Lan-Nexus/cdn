@@ -1,6 +1,6 @@
 {
-  "name":'Age of Empires',
-  "executable": 'BF2.exe',
+  "name":"Age of Empires",
+  "executable": "BF2.exe",
   "needsGameKey": false,
   "installScript": null,
   "uninstallScript": null,
